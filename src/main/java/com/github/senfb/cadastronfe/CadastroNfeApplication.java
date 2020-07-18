@@ -9,5 +9,4 @@ public class CadastroNfeApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(CadastroNfeApplication.class, args);
 	}
-
 }
